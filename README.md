@@ -47,8 +47,8 @@ Display the result.
 
 ## Program
 ```
-NAME : SANJAY S
-REG NO : 212222230132
+NAME : HARI PRASATH S
+REG NO : 212222240034
 ```
 ### Perform ROI from an image:
 ```
